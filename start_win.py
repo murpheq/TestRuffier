@@ -1,6 +1,6 @@
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QPushButton
-from PyQt5.QtGui import QIcon, QFont, QPixmap
+from PyQt5.QtGui import QIcon, QFont, QPixmap, QGradient
 from instr import *
 from second_win import TestWin
 
